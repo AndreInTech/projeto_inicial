@@ -1,0 +1,4 @@
+<properties>
+    <property id="Theme" type="number">0</property>
+    <property id="ShowSeconds" type="boolean">true</property>
+</properties>

@@ -1,0 +1,11 @@
+<settings>
+    <setting propertyKey="@Properties.Theme" title="@Strings.ThemeTitle">
+        <settingConfig type="list">
+            <listEntry value="0">@Strings.ThemeBlue</listEntry>
+            <listEntry value="1">@Strings.ThemeBlack</listEntry>
+        </settingConfig>
+    </setting>
+    <setting propertyKey="@Properties.ShowSeconds" title="@Strings.SecondsTitle">
+        <settingConfig type="boolean"/>
+    </setting>
+</settings>
